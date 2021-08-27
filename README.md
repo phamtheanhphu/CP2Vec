@@ -7,15 +7,15 @@ Belows are some visualizations of clustering results for COVID-19 hotpots analys
 
 <sup>Illustrations of COVID-19 confirmed cases/isolated area clustering via different techniques in several large/high-population districts of Ho Chi Minh city, Viet Nam</sup>
 
-![alt text](https://github.com/phamtheanhphu/CP2Vec/blob/master/images/hcm_covid_data.png?raw=true)
+![alt text](https://github.com/phamtheanhphu/CP2Vec/blob/main/images/hcm_covid_data.png?raw=true)
 
 <sup>Illustrations of police reported criminal case clustering via different techniques in Hartford city, United States</sup>
 
-![alt text](https://github.com/phamtheanhphu/CP2Vec/blob/master/images/us_crime_data.png?raw=true)
+![alt text](https://github.com/phamtheanhphu/CP2Vec/blob/main/images/us_crime_data.png?raw=true)
 
 <sup>The 3-D visualizations of learnt embedding vectors corresponding with the reported criminal cases in Hartford city, US which are learnt by our CP2Vec model</sup>
 
-![alt text](https://github.com/phamtheanhphu/CP2Vec/blob/master/images/us_crime_pca_tsne.png?raw=true)
+![alt text](https://github.com/phamtheanhphu/CP2Vec/blob/main/images/us_crime_pca_tsne.png?raw=true)
 
 
 ### Requirements
