@@ -1,4 +1,5 @@
 #CP2Vec
+
 **A community-aware graph neural network representation learning for enhancing location-based clustering task**
 
 This is the source code of *CP2Vec* model which is a geographical location-based representation learning via graph attention network (GAT). The achieved representations of locations are then used to facilitate the density-based spatial clustering algorithms, like as: DBSCAN and HDBSCAN.
